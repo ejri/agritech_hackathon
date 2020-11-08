@@ -2,15 +2,15 @@
 
 For this hackathon project, we used Custom Vision to create an image classification model. The model is used to classify images into either normal or containing bacteria or fungi in grape, grape leaves, and grape trees:
 
-Anthracnose Elsinoe ampelina
-black measles
-black rot Guignardia bidwelli
-Crown Gall Agrobacterium vitis
-Downy mildew Plasmopara viticola
-Grey Mold Botrytis cinerea
-Leaf blight Isariopsis Leaf Spot
-normal
-Powdery Mildew Erysiphe necator
+* Anthracnose Elsinoe ampelina
+* black measles
+* black rot Guignardia bidwelli
+* Crown Gall Agrobacterium vitis
+* Downy mildew Plasmopara viticola
+* Grey Mold Botrytis cinerea
+* Leaf blight Isariopsis Leaf Spot
+* normal
+* Powdery Mildew Erysiphe necator
 
 
 We exported the model into a TFLite model to use as a part of an android app as well as a raspberry pi.
