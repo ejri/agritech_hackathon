@@ -25,7 +25,7 @@ Similarly, the model is imported into raspberry pi (connected to a camera), wher
 
 The app is a great way for farmers to take images and monitor their harvests' health, while a raspberry pi can be used to continuously monitor the health of grapes trees against pests.
 
-[Presentation and demo on Youtube!](https://youtu.be/Vz9kf8dXgzk)
+[Presentation and demo!](https://drive.google.com/file/d/1u1ZZPgAKl9AAAleY2_8XOso6EbO3t1Fm/view?usp=sharing)
 
 # TensorFlow Examples
 
