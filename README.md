@@ -19,12 +19,13 @@ The android app example is forked from TensorFlow Examples (details below).
 
 The TFLite model is imported into the app to create a really basic, user-friendly app where users can take an image, and the image is classified into the categories mentioned above. 
 
-Similarly, the model is imported into raspberry pi (connected to a camera), where a really simple program where images can be classified into the categories above. 
+We didn't have enough time to show everything for the 3 minute video, so we opted to build a web app using Flask. 
 
-The app is a great way for farmers to take images and monitor their harvests' health, while a raspberry pi can be used to continuously monitor the health of grapes trees against pests. 
+Similarly, the model is imported into raspberry pi (connected to a camera), where a really simple program where images can be classified into the categories above.
 
-Presentation and demo:
+The app is a great way for farmers to take images and monitor their harvests' health, while a raspberry pi can be used to continuously monitor the health of grapes trees against pests.
 
+[Presentation and demo on Youtube!](https://youtu.be/Vz9kf8dXgzk)
 
 # TensorFlow Examples
 
